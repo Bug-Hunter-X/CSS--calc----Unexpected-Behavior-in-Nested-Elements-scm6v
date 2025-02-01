@@ -1,0 +1,1 @@
+The CSS property `calc()` can sometimes lead to unexpected results if used incorrectly. For example, using it with percentages within nested elements can lead to unexpected layout behavior due to the order of calculation and parent element dimensions.
