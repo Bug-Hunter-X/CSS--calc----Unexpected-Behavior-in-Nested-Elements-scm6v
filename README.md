@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS issue related to the `calc()` function and its unexpected behavior within nested elements.  The `bug.css` file shows the problematic code, resulting in an incorrect layout. The solution, presented in `bugSolution.css`, addresses the issue by restructuring the CSS to correctly calculate the desired dimensions.
